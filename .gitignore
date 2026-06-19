@@ -1,7 +1,11 @@
-# created by virtualenv automatically
-.venv/Lib
+# Virtual Environment
 .venv/
-*.txt
-*.gz
 __pycache__/
+
+# IDEs
 .idea/
+.vscode/
+
+# Ignore zip and compressed files
+*.zip
+*.gz
